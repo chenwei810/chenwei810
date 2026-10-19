@@ -24,27 +24,6 @@
 
 <br>
 
----
-
-## 📚 Teaching: Introduction Series
-
-| Book | Description |
-|---|---|
-| **[Introduction to IC Design](https://github.com/chenwei810/IC_Design_Introduction)** | Follows one multiply-accumulate unit from code to a chip |
-| **[Introduction to Semiconductor Manufacturing](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction)** | Follows one wafer from sand to a chip |
-| **[Introduction to Git](https://github.com/chenwei810/Git_Introduction)** | Follows one firmware project and one bug fix from first commit to release |
-
----
-
-## 🛠️ Projects
-
-| Project | Description |
-|---|---|
-| **[PNG Info Viewer](https://github.com/chenwei810/PNG_info)** | Offline macOS app to view and edit the generation parameters stored in AI-generated images |
-| **[Radar Vital Signs](https://github.com/chenwei810/radar_PR_RR)** | Contactless pulse and respiration rate estimation from radar signals with deep learning |
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
